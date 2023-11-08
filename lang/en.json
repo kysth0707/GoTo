@@ -1,0 +1,45 @@
+{
+    "title.main" : "G O T O",
+
+    "key.move" : "Go",
+    "key.enter" : "Confirm",
+    "key.esc" : "Cancel",
+
+    "main.create" : "Create",
+    "main.search" : "Search",
+    "main.list" : "List",
+    "main.help" : "Exit at any time with Ctrl + C",
+    "main.changeLang" : "Change Language",
+
+    "title.create" : "Create Shortcut",
+    "create.title" : "Title",
+    "create.tag" : "Tag",
+    "create.content" : "Content",
+
+
+    "create.title.input" : "Enter Title",
+    "create.tag.input" : "Enter Tag",
+    "create.content.input" : "Enter Content",
+    "create.create" : "Create",
+    "create.help" : "After selecting an item, write the content with Enter.",
+
+	"title.list" : "List",
+	"list.previous" : "Previous",
+	"list.next" : "Next",
+	"list.help" : "After selecting an item, confirm the contents with Enter.",
+    "list.count" : "count",
+
+	"title.show" : "Show",
+	"show.help" : "After selecting an item, press Enter to copy.",
+    "create.time" : "Time at",
+
+	"title.search" : "Search",
+	"search.sort" : "Sort by",
+	"search.sort.time" : "Time",
+	"search.sort.title" : "Title",
+	"search.sort.tag" : "Tag",
+	"search.sort.content" : "Content",
+
+	"search.text" : "Search",
+    "search.count" : "count"
+}
